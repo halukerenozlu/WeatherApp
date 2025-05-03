@@ -5,4 +5,3 @@
 - `OpenWeatherMap API` + `requests`
 - `tkinter.Entry`, `Label`, `Button`
 - Veriyi yazı ve simge ile görselleştirme
--
