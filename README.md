@@ -1,4 +1,4 @@
-📌 **Amaç:** Kullanıcıdan şehir ismi alarak hava durumu bilgisi gösterme.
+📌 **Amaç:** Kullanıcıdan Şehir ismi alarak hava durumu bilgisi gösterme.
 
 🔧 **Teknolojiler:**
 
