@@ -14,7 +14,7 @@ app = Tk()
 app.geometry('500x500')
 app.title('Hava durumu')
 
-# Paneli kur, widget'ları al
+
 cityEntry, locationLabel, templabel, conditionLabel, iconLabel = panel(app, main)
 
 
