@@ -20,5 +20,5 @@ def panel(app, main_command):
     conditionLabel = Label(app, font=('Arial', 20))
     conditionLabel.pack()
 
-    # Gerekli widget'ları döndürüyoruz
+    
     return cityEntry, locationLabel, templabel, conditionLabel, iconLabel
