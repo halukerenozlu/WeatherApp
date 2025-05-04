@@ -1,5 +1,3 @@
-from tkinter import *
-from PIL import Image, ImageTk
 import requests
 url = 'https://api.openweathermap.org/data/2.5/weather'
 api_key = 'eb430b60d10ab2aec84af32c6fcba58f'
